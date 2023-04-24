@@ -1,3 +1,5 @@
+// France, Angleterre, Espagne, Italie
+
 export const clubs = [
   {
     name: 'PSG',
@@ -287,6 +289,342 @@ export const clubs = [
     capacity: "11 329",
     surface: "Pelouse naturel",
     image:"https://cdn.resfu.com/img_data/estadios/original_new/167.jpg?size=720x&lossy=1"
+  },
+  // SPANISH CLUBS
+  {
+    name: 'Barccelone',
+    stade: 'Spotify Camp Nou',
+    capacity: "99 354",
+    surface: "Pelouse hybride",
+    image:"https://www.fcbarcelona.com/photo-resources/2021/08/09/d4236e65-4502-4cca-816d-a97c441abdac/Camp-nou-1.jpg?width=1200&height=750"
+  },
+  {
+    name: 'Real Madrid',
+    stade: 'Santiago Bernabéu',
+    capacity: "81 044",
+    surface: "Gazon naturel",
+    image:"https://images.musement.com/cover/0099/04/thumb_9803261_cover_header.jpeg"
+  },
+  {
+    name: 'Atlético Madrid',
+    stade: 'Civitas Metropolitano',
+    capacity: "68 456",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Wanda-Metropolitano.jpg/1200px-Wanda-Metropolitano.jpg"
+  },
+  {
+    name: 'Real Betis',
+    ville: 'Seville',
+    stade: 'Benito Villamarín',
+    capacity: "59 378",
+    surface: "Gazon naturel",
+    image:"https://www.daplast.com/wp-content/uploads/2018/05/MG_4885_ret3_low3.jpg"
+  },
+  {
+    name: 'Atletico Bilbao',
+    stade: 'San Mamés',
+    capacity: "53 289",
+    surface: "Gazon naturel",
+    image:"https://cdn.getyourguide.com/img/tour/5ce05da741191.jpeg/146.jpg"
+  },
+  {
+    name: 'Fc Valencia',
+    ville:'Valence',
+    stade: 'Mestalla',
+    capacity: "48 600",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Mestalla_trofeu_taronja_120811.jpg/2560px-Mestalla_trofeu_taronja_120811.jpg"
+  },
+  {
+    name: 'Sevilla FC',
+    ville: 'Seville',
+    stade: 'Ramón Sánchez-Pizjuán',
+    capacity: "43 883",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/1/17/Sevilla2-1Lega20182.jpg"
+  },
+  {
+    name: 'Espanyol',
+    ville:'Barcelone',
+    stade: 'RCDE Stadium',
+    capacity: "40 500",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/4/47/EstadioRCDE_Pano.jpg"
+  },
+  {
+    name: 'Real Sociedad',
+    ville:'San Sebastian',
+    stade: 'Reale Arena',
+    capacity: "39 313",
+    surface: "Gazon naturel",
+    image:"https://www.stadiumguide.com/wp-content/uploads/realearena3.jpg"
+  },
+  {
+    name: 'Elche FC',
+    stade: 'Manuel Martínez Valero',
+    capacity: "31 388",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/0/05/Vista_interior_del_estadio_Mart%C3%ADnez_Valero.jpg"
+  },
+  {
+    name: 'Celta Vigo',
+    stade: 'Abanca Balaídos',
+    capacity: "29 000",
+    surface: "Gazon naturel",
+    image:"https://1.bp.blogspot.com/-mmcYosM-hAo/YPW7Z2R79fI/AAAAAAAApbw/ePc30L1bIvI_GJe9RHBKZnw80nO1kHpAACLcBGAsYHQ/s1920/eFootball%2BPES%2B2021%2BScreenshot%2B2021.07.12%2B-%2B19.26.17.81.jpg"
+  },
+  {
+    name: 'Real Valladolid',
+    
+    stade: 'Nuevo José Zorrilla',
+    capacity: "27 618",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Estadio_Jos%C3%A9_Zorrilla_de_Valladolid.jpg/1280px-Estadio_Jos%C3%A9_Zorrilla_de_Valladolid.jpg"
+  },
+  {
+    name: 'Cádiz CF',
+    
+    stade: 'Nuevo Mirandilla',
+    capacity: "21 094",
+    surface: "Gazon naturel",
+    image:"https://www.lavozdelsur.es/uploads/s1/92/79/82/carranza.jpeg"
+  },
+  {
+    name: 'CA Osasuna',
+    ville:'Pamplona',    
+    stade: 'El Sadar',
+    capacity: "23 576",
+    surface: "Gazon naturel",
+    image:"https://www.polypiu.it/wp-content/uploads/2022/02/REFORMA-SADAR-_PARTIDO-_-16-3-scaled.jpg"
+  },
+  {
+    name: 'Villarreal CF',   
+    stade: 'La Cerámica',
+    capacity: "23 500",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/1/13/ESTADIO3.jpg"
+  },
+  {
+    name: 'RCD Mallorca',
+    ville:'Palma de Mallorca',   
+    stade: 'Mallorca Son Moix',
+    capacity: "20 500",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/d/d2/Mallorca0-2Leganes.jpg"
+  },
+  {
+    name: 'FC Getafe',
+   
+    stade: 'Coliseum Alfonso Pérez',
+    capacity: "16 800",
+    surface: "Gazon naturel",
+    image:"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/35/6e/9a/gradas.jpg?w=1200&h=-1&s=1"
+  },
+  {
+    name: 'UD Almería',
+   
+    stade: 'Power Horse Stadium',
+    capacity: "15 274",
+    surface: "Gazon naturel",
+    image:"https://pbs.twimg.com/media/FUHKIarWQAg6r5B.jpg:large"
+  },
+  {
+    name: 'Rayo Vallecano',
+    ville:'Madrid',
+   
+    stade: 'Campo de Fútbol de Vallecas',
+    capacity: "15 105",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/3/37/Estadio_de_Vallecas.jpg"
+  },
+  {
+    name: 'Girona FC',
+     
+    stade: 'Montilivi',
+    capacity: "13 286",
+    surface: "Pelouse hybride",
+    image:"https://estaticos-cdn.sport.es/clip/d831232f-3966-4003-993b-13d8f3ea5d86_alta-libre-aspect-ratio_default_0.jpg"
+  },
+  // Italian CLUB
+
+  {
+    name: 'AC Milan',   
+    stade: 'Giuseppe Meazza',
+    capacity: "75 923",
+    surface: "Pelouse hybride",
+    image:"https://www.lequipe.fr/_medias/img-photo-jpg/les-deux-clubs-milanais-souhaitent-changer-de-stade-au-plus-vite-paolo-bona-presse-sports/1500000001630263/0:0,1998:1332-828-552-75/e51e7"
+  },
+  {
+    name: 'Inter Milan',   
+    stade: 'Giuseppe Meazza',
+    capacity: "75 923",
+    surface: "Pelouse hybride",
+    image:"https://www.lequipe.fr/_medias/img-photo-jpg/les-deux-clubs-milanais-souhaitent-changer-de-stade-au-plus-vite-paolo-bona-presse-sports/1500000001630263/0:0,1998:1332-828-552-75/e51e7"
+  },
+  {
+    name: 'AS Roma',
+    ville:'Rome',   
+    stade: 'Olimpico di Roma',
+    capacity: "73 261",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/5/51/L%27Olimpico_-_panoramio.jpg"
+  },
+  {
+    name: 'Lazio Rome',
+    ville:'Rome',   
+    stade: 'Olimpico di Roma',
+    capacity: "73 261",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/5/51/L%27Olimpico_-_panoramio.jpg"
+  },
+  {
+    name: 'SSC Napoli',
+    ville:'Naples',   
+    stade: 'Stadio Diego Armando Maradona',
+    capacity: "56 726",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/3/38/Stadio_San_Paolo_Serie_A.jpg"
+  },
+  {
+    name: 'ACF Fiorentina',
+    ville:'Florence',
+   
+    stade: 'Artemio Franchis',
+    capacity: "43 147",
+    surface: "Gazon naturel",
+    image:"https://www.italyguide.info/pics/stadio-firenze.jpg"
+  },
+
+  {
+    name: 'Juventus Turin',
+    
+   
+    stade: '	Allianz Stadium',
+    capacity: "41 507",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Juventus_v_Real_Madrid%2C_Champions_League%2C_Stadium%2C_Turin%2C_2013.jpg/1200px-Juventus_v_Real_Madrid%2C_Champions_League%2C_Stadium%2C_Turin%2C_2013.jpg"
+  },
+
+  {
+    name: 'Hellas Verona',
+    ville:'Verone',
+   
+    stade: 'Marcantonio Bentegodi',
+    capacity: "39 211",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bentegodiverona.jpeg/2560px-Bentegodiverona.jpeg"
+  },
+
+  {
+    name: 'FC Bologna',
+    ville:'Bologne',
+   
+    stade: 'Stadio Renato Dall’Ara',
+    capacity: "36 462",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/e/e5/Stadio_Dall%27Ara_01-02-2020.jpg"
+  },
+
+  {
+    name: 'UC Sampdoria',
+    ville:'Gênes',
+   
+    stade: 'Luigi Ferraris',
+    capacity: "36 348",
+    surface: "Gazon naturel",
+    image:"https://www.info-stades.fr/uploads/stades/genoa-stadium-64354.jpg"
+  },
+
+  {
+    name: 'US Lecce',
+   
+    stade: 'Ettore Giardiniero',
+    capacity: "31 559",
+    surface: "Gazon naturel",
+    image:"https://archistadia.it/wp-content/uploads/2022/01/lecce-stadio-via-del-mare.jpg"
+  },
+
+  {
+    name: 'US Salernitana 1919',
+    ville:'Salerne',
+   
+    stade: 'Arechi',
+    capacity: "29 739",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Stadio_Arechi_interno.JPG/1200px-Stadio_Arechi_interno.JPG"
+  },
+
+  {
+    name: 'Torino FC',
+    ville:'Turin',
+   
+    stade: 'Stadio Olimpico Grande Torino',
+    capacity: "28 177",
+    surface: "Gazon naturel",
+    image:"https://cdn.wegow.com/media/venues/stadio-olimpico-grande-torino-di-torino/stadio-olimpico-grande-torino-di-torino-1665390769.8793247.2560x1440.jpg"
+  },
+  {
+    name: 'Udinese Calcio',
+    ville:'Udine',
+   
+    stade: 'Dacia Arena',
+    capacity: "25 144",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/DaciArena.jpg/1200px-DaciArena.jpg"
+  },
+  {
+    name: 'US Sassuolo',
+    ville:'Reggio',
+   
+    stade: 'Mapei Stadium - Città del Tricolore',
+    capacity: "21 584",
+    surface: "Gazon naturel",
+    image:"https://www.footballticketnet.fr/theme/images/venues_cover/Buy-MAPEI_Stadium_-_Citta_del_Tricolore-Football-Tickets-FootballTicketNet-Cover.png"
+  },
+  {
+    name: 'FC Empoli',
+   
+   
+    stade: 'Carlo Castellani',
+    capacity: "19 847",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/3/3a/Empoli_-_maratona_dello_Stadio_Castellani.jpg"
+  },
+  {
+    name: 'Atalanta BC',
+    ville:'Bergame',
+   
+    stade: 'Gewiss Stadium',
+    capacity: "19 768",
+    surface: "Gazon naturel",
+    image:"https://www.footballticketnet.fr/theme/images/venues_cover/Buy-Gewiss_Stadium-Football-Tickets-FootballTicketNet-Cover.png"
+  },
+  {
+    name: 'US Cremonese',
+    ville:'Crémone',
+   
+    stade: 'Giovanni Zini',
+    capacity: "16 003",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/e/e4/Stadio_Zini_2019_09_21.jpg"
+  },
+  {
+    name: 'AC Monza',
+    ville:'Monza',
+   
+    stade: 'U-Power Stadium - Brianteo',
+    capacity: "15 039",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/5/56/Stadio_brianteo_monza_2022.jpg"
+  },
+  {
+    name: 'Spezia Calcio',
+    ville:'La Spezia',
+   
+    stade: 'Alberto Picco',
+    capacity: "11 676",
+    surface: "Pelouse hybride",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/La_Spezia_-_Interno_Stadio_Picco.jpg/1200px-La_Spezia_-_Interno_Stadio_Picco.jpg"
   },
  
 ]
