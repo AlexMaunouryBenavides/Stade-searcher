@@ -488,7 +488,6 @@ export const clubs = [
   {
     name: 'ACF Fiorentina',
     ville:'Florence',
-   
     stade: 'Artemio Franchis',
     capacity: "43 147",
     surface: "Gazon naturel",
@@ -497,8 +496,6 @@ export const clubs = [
 
   {
     name: 'Juventus Turin',
-    
-   
     stade: '	Allianz Stadium',
     capacity: "41 507",
     surface: "Gazon naturel",
@@ -508,7 +505,6 @@ export const clubs = [
   {
     name: 'Hellas Verona',
     ville:'Verone',
-   
     stade: 'Marcantonio Bentegodi',
     capacity: "39 211",
     surface: "Gazon naturel",
@@ -518,7 +514,6 @@ export const clubs = [
   {
     name: 'FC Bologna',
     ville:'Bologne',
-   
     stade: 'Stadio Renato Dall’Ara',
     capacity: "36 462",
     surface: "Gazon naturel",
@@ -528,7 +523,6 @@ export const clubs = [
   {
     name: 'UC Sampdoria',
     ville:'Gênes',
-   
     stade: 'Luigi Ferraris',
     capacity: "36 348",
     surface: "Gazon naturel",
@@ -537,7 +531,6 @@ export const clubs = [
 
   {
     name: 'US Lecce',
-   
     stade: 'Ettore Giardiniero',
     capacity: "31 559",
     surface: "Gazon naturel",
@@ -547,7 +540,6 @@ export const clubs = [
   {
     name: 'US Salernitana 1919',
     ville:'Salerne',
-   
     stade: 'Arechi',
     capacity: "29 739",
     surface: "Gazon naturel",
@@ -557,7 +549,6 @@ export const clubs = [
   {
     name: 'Torino FC',
     ville:'Turin',
-   
     stade: 'Stadio Olimpico Grande Torino',
     capacity: "28 177",
     surface: "Gazon naturel",
@@ -566,7 +557,6 @@ export const clubs = [
   {
     name: 'Udinese Calcio',
     ville:'Udine',
-   
     stade: 'Dacia Arena',
     capacity: "25 144",
     surface: "Gazon naturel",
@@ -575,7 +565,6 @@ export const clubs = [
   {
     name: 'US Sassuolo',
     ville:'Reggio',
-   
     stade: 'Mapei Stadium - Città del Tricolore',
     capacity: "21 584",
     surface: "Gazon naturel",
@@ -583,8 +572,6 @@ export const clubs = [
   },
   {
     name: 'FC Empoli',
-   
-   
     stade: 'Carlo Castellani',
     capacity: "19 847",
     surface: "Gazon naturel",
@@ -593,7 +580,6 @@ export const clubs = [
   {
     name: 'Atalanta BC',
     ville:'Bergame',
-   
     stade: 'Gewiss Stadium',
     capacity: "19 768",
     surface: "Gazon naturel",
@@ -602,7 +588,6 @@ export const clubs = [
   {
     name: 'US Cremonese',
     ville:'Crémone',
-   
     stade: 'Giovanni Zini',
     capacity: "16 003",
     surface: "Gazon naturel",
@@ -611,7 +596,6 @@ export const clubs = [
   {
     name: 'AC Monza',
     ville:'Monza',
-   
     stade: 'U-Power Stadium - Brianteo',
     capacity: "15 039",
     surface: "Gazon naturel",
@@ -620,11 +604,162 @@ export const clubs = [
   {
     name: 'Spezia Calcio',
     ville:'La Spezia',
-   
     stade: 'Alberto Picco',
     capacity: "11 676",
     surface: "Pelouse hybride",
     image:"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/La_Spezia_-_Interno_Stadio_Picco.jpg/1200px-La_Spezia_-_Interno_Stadio_Picco.jpg"
+  },
+
+  //Germany
+
+  {
+    name: 'Borussia Dortmund',
+    stade: 'SIGNAL IDUNA PARK',
+    capacity: "81 365",
+    surface: "Gazon naturel",
+    image:"https://i.f1g.fr/media/sport24/orig/var/plain_site/storage/images/scan-sport/actualites/ligue-des-champions-le-signal-iduna-park-transforme-en-tifo-geant-993490/26873981-3-fre-FR/Ligue-des-champions-le-Signal-Iduna-Park-transforme-en-tifo-geant.jpg"
+  },
+
+  {
+    name: 'Bayern Munich',
+    stade: 'Allianz Arena',
+    capacity: "75 024",
+    surface: "Gazon naturel",
+    image:"https://media.ouest-france.fr/v1/pictures/MjAyMTA2M2ZiZDQxMmMyNTI1Y2M2NGIxYjUyNmY0M2Q2NDQzMzM?width=1260&height=708&focuspoint=50%2C50&cropresize=1&client_id=bpeditorial&sign=99aaa6b60823e0a609abaa2548235bde538aa45f4ea72774049c423c8498a56e"
+  },
+
+  {
+    name: 'Hertha BSC',
+    ville:'Berlin',
+    stade: 'Olympiastadion Berlin',
+    capacity: "74 667",
+    surface: "Gazon naturel",
+    image:"https://editorial.uefa.com/resources/0259-0e810a2a8512-4af7aceafe57-1000/uefa_champions_league_final_-_md.jpeg"
+  },
+
+  {
+    name: 'FC Schalke 04',
+    ville:'Gelsenkirchen',
+    stade: 'Veltins-Arena',
+    capacity: "62 271",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Germany_-v-_Ireland_Euro_2016_Qualifier_%2815365957457%29.jpg/4896px-Mapcarta.jpg"
+  },
+
+  {
+    name: 'VfB Stuttgart',
+    stade: 'Mercedes-Benz Arena',
+    capacity: "60 449",
+    surface: "Gazon naturel",
+    image:"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ca/41/12/mercedes-benz-arena.jpg?w=1200&h=-1&s=1"
+  },
+
+  {
+    name: 'Borussia Mönchengladbach',
+    ville:'Mönchengladbach',
+    stade: 'Stadion im Borussia-Park',
+    capacity: "54 042",
+    surface: "Gazon naturel",
+    image:"https://www.info-stades.fr/forum/ressources/image/1416"
+  },
+
+  {
+    name: 'Eintracht Francfort',
+    stade: 'Deutsche Bank Park',
+    capacity: "51 500",
+    surface: "Gazon naturel",
+    image:"https://www.number1-footballtravel.com/site/storage/files/2298/deutsche_bank_park-_eintracht_frankfurt_stadium-_waldstadion.jpg"
+  },
+
+  {
+    name: 'FC Köln',
+    stade: 'RheinEnergieSTADION',
+    capacity: "50 000",
+    surface: "Gazon naturel",
+    image:"https://img.bundesliga.com/tachyon/sites/2/2019/09/TYwFeY47-1920-1.jpg?crop=0px,0px,1920px,1080px"
+  },
+
+  {
+    name: 'RasenBallsport Leipzig',
+    stade: 'Red Bull Arena',
+    capacity: "47 069",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/9/9e/Red_Bull_Arena_on_the_First_Day.jpg"
+  },
+
+  {
+    name: 'SV Werder Bremen',
+    ville:'Brême',
+    stade: 'Wohninvest-Weserstadion',
+    capacity: "42 100",
+    surface: "Gazon naturel",
+    image:"https://www.deichstube.de/bilder/2019/06/13/12419438/296090358-werder-bremen-weserstadion-OMKiHPYea.jpg"
+  },
+
+  {
+    name: 'SC Fribourg',
+    stade: '	Europa-Park Stadion',
+    capacity: "34 700",
+    surface: "Gazon naturel",
+    image:"https://www.scfreiburg.com/fileadmin/_processed_/e/a/csm_Stadion_Das_neue_Stadion_UEbersichtskachel_e6042bf8a4.jpg"
+  },
+
+  {
+    name: 'FSV Mainz 05',
+    ville:'Florence',
+    stade: 'Mewa Arena',
+    capacity: "33 305",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/8/8e/Er%C3%B6ffnungsfeier_Coface_Arena.JPG"
+  },
+
+  {
+    name: 'FC Augsburg',
+    stade: 'WWK ARENA',
+    capacity: "30 660",
+    surface: "Pelouse hybride",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Impuls_Arena_Augsburg_2011.jpg/1200px-Impuls_Arena_Augsburg_2011.jpg"
+  },
+
+  {
+    name: 'Bayer 04 Leverkusen',
+    stade: 'BayArena',
+    capacity: "30 210",
+    surface: "Gazon naturel",
+    image:"https://b04-ep-media-prod.azureedge.net/pickerimages/crop_20211017_FS_B04-FCB_26011_385499_XL.jpg"
+  },
+
+  {
+    name: 'TSG 1899 Hoffenheim',
+    ville:'Sinsheim',
+    stade: 'PreZero Arena',
+    capacity: "30 150",
+    surface: "Gazon naturel",
+    image:"https://www.dfb.de/fileadmin/_processed_/202209/csm_267673-PreZero-Arena_getty_1afd662109.jpg"
+  },
+
+  {
+    name: 'VfL Wolfsburg',
+    stade: 'Volkswagen Arena',
+    capacity: "30 000",
+    surface: "Pelouse hybride",
+    image:"https://www.automobile-magazine.fr/asset/cms/198193/config/145910/la-volkswagen-arena-le-stade-dans-lequel-evolue-le-club-de-wolfsburg.jpg_large"
+  },
+
+  {
+    name: 'VfL Bochum',   
+    stade: 'Vonovia Ruhrstadion',
+    capacity: "26 000",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/c/c5/Vonovia_Ruhrstadion_12a.jpg"
+  },
+
+  {
+    name: 'FC Union Berlin',
+    stade: 'Stadion An der Alten Försterei',
+    capacity: "22 012",
+    surface: "Gazon naturel",
+    image:"https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Berlin_alte_f%C3%B6rsterei.jpg/1200px-Berlin_alte_f%C3%B6rsterei.jpg"
   },
  
 ]
